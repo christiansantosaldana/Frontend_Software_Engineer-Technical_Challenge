@@ -26,7 +26,7 @@ Por consola ingresar a la carpeta backend y ejecuar el comando "npm run dev"
 Por consola ingresar a la carpeta frontend y ejecutar el comando "npm run dev"
 Al culminar los cambios del frontend se debe ingresar a la carpeta frontend por consola y ejecutar el comando "npm start" para que los cambios sean visibles en producción.
 
-### Inicializar test automatizado (requiere inicializar modo desasrrollo)
+### Inicializar test automatizado (requiere inicializar modo desarrollo)
 
 Por consola ingresar a la carpeta frontend y ejecutar el comando "npx cypress open"
 Se abrira una nueva ventana donde se puede seleccionar los test que se desea ejecutar. (Solo escoger los que terminen en spec.js)
